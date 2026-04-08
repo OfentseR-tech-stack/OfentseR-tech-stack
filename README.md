@@ -104,11 +104,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OfentseR-tech-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OfentseR-tech-stack&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=OfentseR-tech-stack&theme=tokyonight&hide_border=true)
+
+> 🚀 Stats will populate as I upload projects and make commits!
 
 </div>
 
@@ -129,7 +127,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofentse-ramatsetse-19a955401)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OfentseR-tech-stack)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white)](mailto:ofentseramatsetse@icloud.com)
 
@@ -141,6 +139,9 @@
 
 *"Discipline is the bridge between goals and accomplishment."*
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
+
+</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
 
 </div>
