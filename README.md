@@ -55,7 +55,7 @@
 `IoT` `Prototyping` `Hardware Design` `Tinkercad` `Teamwork`
 
 - Collaborated in a team to design and build a **mini solar-powered 3D racing vehicle**
-- Led **vehicle design & prototyping** using **Tinkercad** — from concept to physical model
+- Led **vehicle design & prototyping** — from concept to physical model
 - Applied IoT and innovation principles to integrate solar power as the energy source
 
 ---
