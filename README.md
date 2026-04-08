@@ -10,7 +10,7 @@
 
 ## 🙋🏾 About Me
 
-> 🎓 Final-year **Diploma in IT** student at **Belgium Campus IT Varsity**  
+> 🎓 Final-year **Diploma in IT** student at **IT Varsity**  
 > 💡 Passionate about building clean, functional web experiences  
 > 🧠 Background spanning **Web Dev**, **Databases**, **UX Design**, **IoT** & **Software Testing**  
 > 🤝 A team player with strong communication skills and an eye for detail  
@@ -104,11 +104,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OfentseR-tech-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OfentseR-tech-stack&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=OfentseR-tech-stack&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -136,6 +136,14 @@
 </div>
 
 ---
+
+<div align="center">
+
+*"Discipline is the bridge between goals and accomplishment."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
+
+</div>
 
 <div align="center">
 
