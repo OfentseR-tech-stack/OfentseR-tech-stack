@@ -10,7 +10,7 @@
 
 ## 🙋🏾 About Me
 
-> 🎓 Final-year **Diploma in IT** student at **IT Varsity**  
+> 🎓 Final-year **Diploma in IT** student at **Belgium Campus IT Varsity**  
 > 💡 Passionate about building clean, functional web experiences  
 > 🧠 Background spanning **Web Dev**, **Databases**, **UX Design**, **IoT** & **Software Testing**  
 > 🤝 A team player with strong communication skills and an eye for detail  
