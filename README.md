@@ -10,7 +10,7 @@
 
 ## 🙋🏾 About Me
 
-> 🎓 Final-year **Diploma in IT** student at **Belgium Campus IT Varsity**  
+> 🎓 Final-year **Diploma in IT** student at **Belgiun Campus IT Varsity**  
 > 💡 Passionate about building clean, functional web experiences  
 > 🧠 Background spanning **Web Dev**, **Databases**, **UX Design**, **IoT** & **Software Testing**  
 > 🤝 A team player with strong communication skills and an eye for detail  
@@ -135,12 +135,11 @@
 
 ---
 
+<div align="center">
 
 *"Discipline is the bridge between goals and accomplishment."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
 
-</div>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
 
 </div>
