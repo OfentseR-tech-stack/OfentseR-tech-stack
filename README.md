@@ -135,7 +135,6 @@
 
 ---
 
-<div align="center">
 
 *"Discipline is the bridge between goals and accomplishment."*
 
