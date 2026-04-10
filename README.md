@@ -10,63 +10,42 @@
 
 ## 🙋🏾 About Me
 
-<table>
-<tr><td><b>🎓 Education</b></td><td>Final-Year Diploma in IT — Belgiun Campus IT Varsity</td></tr>
-<tr><td><b>💡 Focus</b></td><td>Building clean, functional web experiences with a strong eye for detail</td></tr>
-<tr><td><b>🌍 Location</b></td><td>South Africa</td></tr>
-<tr><td><b>🗣️ Languages</b></td><td>English · Sepedi · Afrikaans</td></tr>
-<tr><td><b>🚀 Looking for</b></td><td>Entry-level opportunities to learn, grow, and contribute</td></tr>
-</table>
+> 🎓 Final-year **Diploma in IT** student at **Belgiun Campus IT Varsity**  
+> 💡 Passionate about building clean, functional web experiences  
+> 🧠 Background spanning **Web Dev**, **Databases**, **UX Design**, **IoT** & **Software Testing**  
+> 🤝 A team player with strong communication skills and an eye for detail  
+> 🔍 Actively seeking an **entry-level opportunity** to learn, grow, and contribute  
+> 🌍 Based in **South Africa** | English · Sepedi · Afrikaans
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-### 🌐 Frontend Development
+### 🌐 Frontend & Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> **HTML5 · CSS3 · JavaScript · DOM API**
+### 🗄️ Database & Backend Concepts
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-Builds responsive, accessible interfaces using semantic HTML5 structure, modern CSS3 layouts (Flexbox & Grid), and vanilla JavaScript for dynamic DOM manipulation and interactivity — no frameworks needed. Comfortable implementing real-time filtering, event handling, and clean UI logic from scratch.
+### 🎨 Design & UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
----
+### 🔧 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### 🗄️ Database Development
-
-> **SQL · MySQL · Normalisation · Query Optimisation · Data Integrity**
-
-Designs normalised relational databases with integrity constraints, writes optimised SQL queries, and implements backup strategies. Experienced with performance tuning, schema design, and structuring data for real-world use cases — from player statistics to product catalogs.
-
----
-
-### 🎨 UX / UI Design
-
-> **Figma · Wireframing · Prototyping · Adobe Photoshop**
-
-Creates wireframes and interactive prototypes in Figma, grounded in user-centred design principles. Uses Photoshop for asset creation and visual communication. Designs with accessibility and clarity in mind — ensuring interfaces are both functional and intuitive.
-
----
-
-### 🧪 Software Testing & QA
-
-> **Test Case Design · Bug Reporting · Regression Testing · SDLC Integration**
-
-Writes structured test cases covering functional, boundary, and edge conditions. Performs systematic bug reporting, defect tracking, and regression testing as part of the broader Software Development Life Cycle quality assurance process.
-
----
-
-### 📐 System Analysis & Design
-
-> **UML Diagrams · Agile · SDLC · Requirements Engineering**
-
-Produces UML diagrams (use-case, class, sequence), documents system requirements, and applies Agile methodologies for iterative development. Comfortable with the full Software Development Life Cycle — from initial requirements gathering through to deployment and maintenance.
-
----
-
-### 📡 IoT & Networking
-
-> **IoT Prototyping · Tinkercad · TCP/IP Concepts · Hardware Design**
-
-Applies IoT principles to hardware prototyping using Tinkercad, with an understanding of TCP/IP networking concepts and how connected devices communicate within a network architecture. Bridges the gap between software logic and physical hardware.
+### 📐 Methodologies & Concepts
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-6DB33F?style=for-the-badge&logo=buffer&logoColor=white)
+![UML](https://img.shields.io/badge/UML%20Diagrams-8E24AA?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Software%20Testing-FF5722?style=for-the-badge&logo=testcafe&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00897B?style=for-the-badge&logo=cisco&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-546E7A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
@@ -75,44 +54,49 @@ Applies IoT principles to hardware prototyping using Tinkercad, with an understa
 ### ⚡ Solar-Powered 3D Racing Vehicle
 `IoT` `Prototyping` `Hardware Design` `Tinkercad` `Teamwork`
 
-Collaborated in a team to design and build a mini solar-powered 3D racing vehicle. Led the vehicle design & prototyping — from concept sketch to physical model — integrating solar power as the energy source using IoT and innovation principles.
-
-**Key contributions:** Vehicle design lead · 3D modelling in Tinkercad · Solar integration · Team coordination
+- Collaborated in a team to design and build a **mini solar-powered 3D racing vehicle**
+- Led **vehicle design & prototyping** — from concept to physical model
+- Applied IoT and innovation principles to integrate solar power as the energy source
 
 ---
 
 ### 🔍 Interactive Gadget Catalog
 `JavaScript` `HTML` `CSS` `DOM Manipulation` `Search Functionality`
 
-Built a fully interactive gadget catalog with real-time search using vanilla JavaScript. Implemented dynamic filtering and DOM manipulation for a smooth, responsive user experience — no frameworks relied on, demonstrating strong core front-end fundamentals.
-
-**Key contributions:** Real-time search logic · Dynamic filtering · Clean UI/UX · Vanilla JS DOM mastery
+- Built a fully **interactive gadget catalog** with real-time search using **vanilla JavaScript**
+- Implemented dynamic filtering and DOM manipulation for a smooth user experience
+- Demonstrates front-end skills without relying on frameworks
 
 ---
 
 ### ⚽ AFCON Football Statistics Database
 `SQL` `MySQL` `Database Design` `Query Optimisation` `Data Integrity`
 
-Designed a structured MySQL database to store and manage AFCON player profiles. Responsible for query optimisation to improve performance, database backups for reliability, normalisation, and enforcing data integrity constraints throughout.
+- Designed a **structured database** to store and manage **AFCON player profiles**
+- Responsible for **query optimisation** to improve performance and **database backups** for reliability
+- Applied normalisation techniques and data integrity constraints
 
-**Key contributions:** Schema design · Query optimisation · Normalisation · Backup strategy
+---
+
+## 💼 What I Bring to a Team
+
+```text
+🌐 Web Development          ██████████████████░░  HTML · CSS · JavaScript
+🗄️  Database Development     ████████████████░░░░  SQL · Query Optimisation
+🎨 UX / UI Design           ███████████████░░░░░  Figma · Wireframing · Prototyping
+🧪 Software Testing & QA    █████████████░░░░░░░  Test Cases · Bug Reporting
+📐 System Analysis          █████████████░░░░░░░  UML · SDLC · Requirements
+📡 IoT & Networking         ████████████░░░░░░░░  Hardware · TCP/IP Concepts
+📋 Project Management       ████████████░░░░░░░░  Agile · Planning · Teamwork
+```
 
 ---
 
 ## 🧠 Soft Skills
 
-<table>
-<tr>
-<td align="center"><b>💡 Problem-Solving</b><br/><sub>Breaks down complex challenges into manageable, actionable steps</sub></td>
-<td align="center"><b>🔍 Analytical Thinking</b><br/><sub>Evaluates options carefully and systematically before deciding</sub></td>
-<td align="center"><b>🤝 Teamwork</b><br/><sub>Strong collaborator with clear, respectful communication</sub></td>
-</tr>
-<tr>
-<td align="center"><b>🔄 Adaptability</b><br/><sub>Thrives in fast-changing environments and learns quickly</sub></td>
-<td align="center"><b>💪 Discipline & Endurance</b><br/><sub>Consistent, committed, and reliable under pressure</sub></td>
-<td align="center"><b>🗣️ Communication</b><br/><sub>Multilingual: English · Sepedi · Afrikaans</sub></td>
-</tr>
-</table>
+| 💡 Problem-Solving | 🔍 Analytical Thinking | 🤝 Teamwork |
+|:-:|:-:|:-:|
+| **🔄 Adaptability** | **💪 Discipline & Endurance** | **🗣️ Communication** |
 
 ---
 
@@ -123,5 +107,3 @@ Designed a structured MySQL database to store and manage AFCON player profiles. 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OfentseR-tech-stack&theme=tokyonight&hide_border=true)
 
 > 🚀 Stats will populate as I upload projects and make commits!
-
-</div>
