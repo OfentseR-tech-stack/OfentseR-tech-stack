@@ -22,7 +22,7 @@
 
 <div align="center">
 
-### 🌐 Frontend & Web
+
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-### 🗄️ Database & Backend
+
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-### 🎨 Design & UX
+
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-### 🔧 Tools & Platforms
+
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-### 📐 Methodologies & Concepts
+
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
