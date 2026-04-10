@@ -15,7 +15,7 @@
 > 🧠 Background spanning **Web Dev**, **Databases**, **UX Design**, **IoT** & **Software Testing**  
 > 🤝 A team player with strong communication skills and an eye for detail  
 > 🔍 Actively seeking an **entry-level opportunity** to learn, grow, and contribute  
-> 🌍 Based in **South Africa** | English · Sepedi · Afrikaans
+> 🇿🇦 Based in **South Africa** | English · Sepedi · Afrikaans
 
 ---
 ## 🛠️ Skills & Tech Stack
