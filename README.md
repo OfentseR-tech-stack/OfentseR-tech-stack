@@ -125,12 +125,3 @@ Designed a structured MySQL database to store and manage AFCON player profiles. 
 > 🚀 Stats will populate as I upload projects and make commits!
 
 </div>
-
-<div align="center">
-
-*"Discipline is the bridge between goals and accomplishment."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
-
-
-</div>
