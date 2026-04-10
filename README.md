@@ -26,7 +26,7 @@
 
 > **HTML5 · CSS3 · JavaScript · DOM API**
 
-I've learnt to build responsive, accessible interfaces using semantic HTML5 structure and modern CSS3 layouts like Flexbox and Grid. I'm able to implement dynamic DOM manipulation and interactivity using vanilla JavaScript — no frameworks needed. I'm comfortable writing real-time filtering, event handling, and clean UI logic from scratch.
+Builds responsive, accessible interfaces using semantic HTML5 structure, modern CSS3 layouts (Flexbox & Grid), and vanilla JavaScript for dynamic DOM manipulation and interactivity — no frameworks needed. Comfortable implementing real-time filtering, event handling, and clean UI logic from scratch.
 
 ---
 
@@ -34,7 +34,7 @@ I've learnt to build responsive, accessible interfaces using semantic HTML5 stru
 
 > **SQL · MySQL · Normalisation · Query Optimisation · Data Integrity**
 
-I've learnt to design normalised relational databases with integrity constraints and write optimised SQL queries. I'm able to implement backup strategies, tune query performance, and structure data for real-world use cases — from player statistics to product catalogs.
+Designs normalised relational databases with integrity constraints, writes optimised SQL queries, and implements backup strategies. Experienced with performance tuning, schema design, and structuring data for real-world use cases — from player statistics to product catalogs.
 
 ---
 
@@ -42,7 +42,7 @@ I've learnt to design normalised relational databases with integrity constraints
 
 > **Figma · Wireframing · Prototyping · Adobe Photoshop**
 
-I've learnt to create wireframes and interactive prototypes in Figma, grounded in user-centred design principles. I'm able to use Photoshop for asset creation and visual communication, and I design with accessibility and clarity in mind — ensuring interfaces are both functional and intuitive.
+Creates wireframes and interactive prototypes in Figma, grounded in user-centred design principles. Uses Photoshop for asset creation and visual communication. Designs with accessibility and clarity in mind — ensuring interfaces are both functional and intuitive.
 
 ---
 
@@ -50,7 +50,7 @@ I've learnt to create wireframes and interactive prototypes in Figma, grounded i
 
 > **Test Case Design · Bug Reporting · Regression Testing · SDLC Integration**
 
-I've learnt to write structured test cases covering functional, boundary, and edge conditions. I'm able to perform systematic bug reporting, defect tracking, and regression testing as part of the broader Software Development Life Cycle quality assurance process.
+Writes structured test cases covering functional, boundary, and edge conditions. Performs systematic bug reporting, defect tracking, and regression testing as part of the broader Software Development Life Cycle quality assurance process.
 
 ---
 
@@ -58,7 +58,7 @@ I've learnt to write structured test cases covering functional, boundary, and ed
 
 > **UML Diagrams · Agile · SDLC · Requirements Engineering**
 
-I've learnt to produce UML diagrams (use-case, class, sequence), document system requirements, and apply Agile methodologies for iterative development. I'm able to work across the full Software Development Life Cycle — from initial requirements gathering through to deployment and maintenance.
+Produces UML diagrams (use-case, class, sequence), documents system requirements, and applies Agile methodologies for iterative development. Comfortable with the full Software Development Life Cycle — from initial requirements gathering through to deployment and maintenance.
 
 ---
 
@@ -66,7 +66,7 @@ I've learnt to produce UML diagrams (use-case, class, sequence), document system
 
 > **IoT Prototyping · Tinkercad · TCP/IP Concepts · Hardware Design**
 
-I've learnt to apply IoT principles to hardware prototyping using Tinkercad, and I'm able to work with TCP/IP networking concepts to understand how connected devices communicate within a network architecture. I enjoy bridging the gap between software logic and physical hardware.
+Applies IoT principles to hardware prototyping using Tinkercad, with an understanding of TCP/IP networking concepts and how connected devices communicate within a network architecture. Bridges the gap between software logic and physical hardware.
 
 ---
 
