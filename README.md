@@ -18,12 +18,11 @@
 > 🌍 Based in **South Africa** | English · Sepedi · Afrikaans
 
 ---
-
 ## 🛠️ Skills & Tech Stack
 
 <div align="center">
 
-<!-- 🌐 Frontend & Web -->
+### 🌐 Frontend & Web
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -44,12 +43,12 @@
   </tr>
 </table>
 
-<!-- 🗄️ Database & Backend -->
+### 🗄️ Database & Backend
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-      <br><b>MySQL</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+      <br><b>Microsoft SQL Server</b>
       <p style="font-size:12px; color:gray;">Database design & optimisation</p>
     </td>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -60,7 +59,7 @@
   </tr>
 </table>
 
-<!-- 🎨 Design & UX -->
+### 🎨 Design & UX
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -76,7 +75,7 @@
   </tr>
 </table>
 
-<!-- 🔧 Tools & Platforms -->
+### 🔧 Tools & Platforms
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -86,18 +85,18 @@
     </td>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
-      <br><b>MS SQL</b>
-      <p style="font-size:12px; color:gray;">Database management</p>
+      <br><b>MS Office</b>
+      <p style="font-size:12px; color:gray;">Docs · Excel · Presentations</p>
     </td>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
-      <br><b>IoT</b>
+      <br><b>Tinkercad / IoT</b>
       <p style="font-size:12px; color:gray;">Prototyping · Hardware design</p>
     </td>
   </tr>
 </table>
 
-<!-- 📐 Methodologies -->
+### 📐 Methodologies & Concepts
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
