@@ -23,6 +23,7 @@
 
 <div align="center">
 
+<!-- 🌐 Frontend & Web -->
 <table>
   <tr>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
@@ -39,6 +40,80 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
       <br><b>JavaScript</b>
       <p style="font-size:12px; color:gray;">DOM manipulation & interactivity</p>
+    </td>
+  </tr>
+</table>
+
+<!-- 🗄️ Database & Backend -->
+<table>
+  <tr>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+      <br><b>MySQL</b>
+      <p style="font-size:12px; color:gray;">Database design & optimisation</p>
+    </td>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
+      <br><b>SQL</b>
+      <p style="font-size:12px; color:gray;">Queries · Data integrity</p>
+    </td>
+  </tr>
+</table>
+
+<!-- 🎨 Design & UX -->
+<table>
+  <tr>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+      <br><b>Figma</b>
+      <p style="font-size:12px; color:gray;">Wireframing · Prototyping</p>
+    </td>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
+      <br><b>Photoshop</b>
+      <p style="font-size:12px; color:gray;">Image editing · Branding</p>
+    </td>
+  </tr>
+</table>
+
+<!-- 🔧 Tools & Platforms -->
+<table>
+  <tr>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+      <br><b>VS Code</b>
+      <p style="font-size:12px; color:gray;">Development environment</p>
+    </td>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+      <br><b>MS SQL</b>
+      <p style="font-size:12px; color:gray;">Database management</p>
+    </td>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
+      <br><b>Tinkercad / IoT</b>
+      <p style="font-size:12px; color:gray;">Prototyping · Hardware design</p>
+    </td>
+  </tr>
+</table>
+
+<!-- 📐 Methodologies -->
+<table>
+  <tr>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
+      <br><b>Agile</b>
+      <p style="font-size:12px; color:gray;">Scrum · Team collaboration</p>
+    </td>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="50"/>
+      <br><b>SDLC</b>
+      <p style="font-size:12px; color:gray;">System analysis · Lifecycle</p>
+    </td>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50"/>
+      <br><b>UML & Testing</b>
+      <p style="font-size:12px; color:gray;">Diagrams · QA processes</p>
     </td>
   </tr>
 </table>
