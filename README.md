@@ -21,32 +21,29 @@
 
 ## 🛠️ Skills & Tech Stack
 
-### 🌐 Frontend & Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### 🗄️ Database & Backend Concepts
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+      <br><b>HTML5</b>
+      <p style="font-size:12px; color:gray;">Semantic markup & accessibility</p>
+    </td>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+      <br><b>CSS3</b>
+      <p style="font-size:12px; color:gray;">Responsive layouts & animations</p>
+    </td>
+    <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+      <br><b>JavaScript</b>
+      <p style="font-size:12px; color:gray;">DOM manipulation & interactivity</p>
+    </td>
+  </tr>
+</table>
 
-### 🎨 Design & UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### 🔧 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
-
-### 📐 Methodologies & Concepts
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-6DB33F?style=for-the-badge&logo=buffer&logoColor=white)
-![UML](https://img.shields.io/badge/UML%20Diagrams-8E24AA?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Software Testing](https://img.shields.io/badge/Software%20Testing-FF5722?style=for-the-badge&logo=testcafe&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00897B?style=for-the-badge&logo=cisco&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-546E7A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
+</div>
 ---
 
 ## 🚀 Projects
