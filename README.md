@@ -90,7 +90,7 @@
     </td>
     <td align="center" width="200px" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
-      <br><b>Tinkercad / IoT</b>
+      <br><b> IoT</b>
       <p style="font-size:12px; color:gray;">Prototyping · Hardware design</p>
     </td>
   </tr>
