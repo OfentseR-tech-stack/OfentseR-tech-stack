@@ -134,7 +134,7 @@
 ### 🔍 Interactive Gadget Catalog
 `JavaScript` `HTML` `CSS` `DOM Manipulation` `Search Functionality`
 
-- Built a fully **interactive gadget catalog** with real-time search using **vanilla JavaScript**
+- Built a fully **interactive gadget catalog** with real-time search using **JavaScript**
 - Implemented dynamic filtering and DOM manipulation for a smooth user experience
 - Demonstrates front-end skills without relying on frameworks
 
